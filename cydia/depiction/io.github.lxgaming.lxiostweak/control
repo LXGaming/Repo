@@ -1,0 +1,9 @@
+Package: io.github.lxgaming.lxiostweak
+Name: LXiOSTweak
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: LX's First iOS Tweak.
+Maintainer: Alex Thomson <alexrobthomson@gmail.com>
+Author: Alex Thomson <alexrobthomson@gmail.com>
+Section: Tweaks

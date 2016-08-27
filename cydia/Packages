@@ -1,0 +1,16 @@
+Package: io.github.lxgaming.lxiostweak
+Version: 1.0.0-1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: LXiOSTweak
+Section: Tweaks
+Description: LX's First iOS Tweak.
+Author: Alex Thomson <alexrobthomson@gmail.com>
+Maintainer: Alex Thomson <alexrobthomson@gmail.com>
+Filename: debs//io.github.lxgaming.lxiostweak_1.0.0-1_iphoneos-arm.deb
+Size: 3960
+Installed-Size: 85
+MD5sum: 6a34c4bcf0f0d4d4b18cd4a13529455c
+SHA1: bdfd4a0f7a5e0c20be2a52e45e10359af498ec8a
+SHA256: 52c529f26146d527bc690137ebd5825a579efef569f12be7137745cc7cceb3a2
+Depiction: https://lxgaming.github.io/iOS/depiction/io.github.lxgaming.lxiostweak/index.html

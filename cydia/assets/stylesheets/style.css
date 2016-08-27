@@ -1,0 +1,35 @@
+p {
+  color: black;
+  cursor: default;
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 25px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: black;
+  cursor: default;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: black;
+  cursor: default;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 25px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#content {
+  background-color: white;
+  border-radius: 0px;
+  border: 1px solid black;
+}

@@ -1,0 +1,8 @@
+Origin: LX_Gaming's Repo
+Label: LX_Gaming
+Suite: stable
+Version: 1.0
+Codename: LX_Gaming
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repository for LX's iOS Apps and Tweaks.
