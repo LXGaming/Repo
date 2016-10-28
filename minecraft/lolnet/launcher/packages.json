@@ -1,0 +1,26 @@
+{
+  "minimumVersion": 1,
+  "packages": [
+    {
+      "name": "Vanilla 1.8",
+      "title": "Vanilla 1.8",
+      "version": "1.8.1",
+      "location": "vanilla-1.8.json",
+      "priority": 2
+    },
+    {
+      "name": "Vanilla 1.9",
+      "title": "Vanilla 1.9",
+      "version": "1.9",
+      "location": "vanilla-1.9.json",
+      "priority": 2
+    }
+    {
+      "name": "Vanilla 1.10",
+      "title": "Vanilla 1.10",
+      "version": "1.10",
+      "location": "vanilla-1.10.json",
+      "priority": 2
+    }
+  ]
+}
