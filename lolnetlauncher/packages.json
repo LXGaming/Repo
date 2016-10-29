@@ -1,0 +1,40 @@
+{
+  "minimumVersion": 1,
+  "packages": [
+    {
+      "name": "Pixelmon",
+      "title": "Pixelmon",
+      "version": "1.0.2.10",
+      "location": "https://www.lolnet.co.nz/modpack/Pixelmon.json",
+      "priority": 1
+    },
+    {
+      "name": "Vanilla",
+      "title": "Vanilla 1.10",
+      "version": "1.10.9",
+      "location": "https://www.lolnet.co.nz/modpack/Vanilla10.json",
+      "priority": 2
+    },
+    {
+      "name": "DW20",
+      "title": "DW20",
+      "version": "1.10.0.22",
+      "location": "https://www.lolnet.co.nz/modpack/DW20.json",
+      "priority": 3
+    },
+    {
+      "name": "Regrowth",
+      "title": "Regrowth",
+      "version": "1.0.0.23",
+      "location": "https://www.lolnet.co.nz/modpack/Regrowth.json",
+      "priority": 4
+    },
+    {
+      "name": "Infinity",
+      "title": "Infinity",
+      "version": "2.6.0.34",
+      "location": "https://www.lolnet.co.nz/modpack/Infinity.json",
+      "priority": 5
+    }
+  ]
+}
