@@ -11,8 +11,8 @@
     },
     {
       "name": "Vanilla",
-      "title": "Vanilla 1.10.9",
-      "version": "1.10",
+      "title": "Vanilla 1.10",
+      "version": "1.10.9",
       "location": "https://www.lolnet.co.nz/modpack/Vanilla10.json",
 	  "description": "The best kind of IceCream.",
       "priority": 2
