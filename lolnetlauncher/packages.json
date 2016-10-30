@@ -11,7 +11,7 @@
     },
     {
       "name": "Vanilla",
-      "title": "Vanilla 1.10",
+      "title": "Vanilla 1.10.9",
       "version": "1.10",
       "location": "https://www.lolnet.co.nz/modpack/Vanilla10.json",
 	  "description": "The best kind of IceCream.",
@@ -20,8 +20,8 @@
 	{
       "name": "EvolvedSkyblock",
       "title": "Infinity Evolved Skyblock",
-      "version": "1.2.0",
-      "location": "https://www.lolnet.co.nz/modpack/EvolvedSkyblock.json",
+      "version": "1.2.0.21",
+      "location": "https://www.lolnet.co.nz/modpack/EvolvedSkyBlock.json",
 	  "description": "It might not be the best modpack, but it's up there xD",
       "priority": 3
     },
