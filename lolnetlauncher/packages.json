@@ -10,12 +10,20 @@
       "priority": 1
     },
     {
-      "name": "Vanilla",
+      "name": "Vanilla110",
       "title": "Vanilla 1.10",
       "version": "1.10.9",
       "location": "https://www.lolnet.co.nz/modpack/Vanilla10.json",
 	  "description": "The best kind of IceCream.",
       "priority": 2
+    },
+    {
+      "name": "Vanilla1102",
+      "title": "Vanilla 1.10.2",
+      "version": "1.10.2",
+      "location": "https://lxgaming.github.io/repo/lolnetlauncher/instance/Vanilla1.10.2.json",
+	  "description": "The best kind of IceCream.",
+      "priority": 3
     },
 	{
       "name": "EvolvedSkyblock",
@@ -23,7 +31,7 @@
       "version": "1.2.0.21",
       "location": "https://www.lolnet.co.nz/modpack/EvolvedSkyBlock.json",
 	  "description": "It might not be the best modpack, but it's up there xD",
-      "priority": 3
+      "priority": 4
     },
     {
       "name": "DW20",
@@ -31,7 +39,7 @@
       "version": "1.10.0.22",
       "location": "https://www.lolnet.co.nz/modpack/DW20.json",
 	  "description": "Direwolf 20 modpack.",
-      "priority": 4
+      "priority": 5
     },
     {
       "name": "Regrowth",
@@ -39,7 +47,7 @@
       "version": "1.0.0.23",
       "location": "https://www.lolnet.co.nz/modpack/Regrowth.json",
 	  "description": "Regrowth modpack.",
-      "priority": 5
+      "priority": 6
     },
     {
       "name": "Infinity",
@@ -47,7 +55,7 @@
       "version": "2.6.0.34",
       "location": "https://www.lolnet.co.nz/modpack/Infinity.json",
 	  "description": "'To infinity and beyond!'~Buzz Lightyear",
-      "priority": 6
+      "priority": 7
     }
   ]
 }
