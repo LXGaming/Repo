@@ -42,12 +42,26 @@
       "priority": 5
     },
     {
+      "name": "DW20110",
+      "title": "Direwolf 20 1.10",
+      "location": "https://www.lolnet.co.nz/modpack/DW20110.json",
+	  "description": "Direwolf 20 1.10 modpack.",
+      "priority": 6
+    },
+    {
+      "name": "InfiLite",
+      "title": "InfiLite",
+      "location": "https://www.lolnet.co.nz/modpack/InfiLite.json",
+	  "description": "InfiLite modpack.",
+      "priority": 7
+    },
+    {
       "name": "Regrowth",
       "title": "Regrowth",
       "version": "1.0.0.23",
       "location": "https://www.lolnet.co.nz/modpack/Regrowth.json",
 	  "description": "Regrowth modpack.",
-      "priority": 6
+      "priority": 8
     },
     {
       "name": "Infinity",
@@ -55,7 +69,7 @@
       "version": "2.6.0.34",
       "location": "https://www.lolnet.co.nz/modpack/Infinity.json",
 	  "description": "'To infinity and beyond!'~Buzz Lightyear",
-      "priority": 7
+      "priority": 9
     }
   ]
 }
