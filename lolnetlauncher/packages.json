@@ -44,7 +44,7 @@
     {
       "name": "DW20110",
       "title": "Direwolf 20 1.10",
-      "version": "1.0.0.11",
+      "version": "1.0.0.12",
       "location": "https://www.lolnet.co.nz/modpack/DW20110.json",
 	  "description": "Direwolf 20 1.10 modpack.",
       "priority": 6
@@ -52,7 +52,7 @@
     {
       "name": "InfiLite",
       "title": "InfiLite",
-      "version": "1.1.0.11",
+      "version": "1.1.0.12",
       "location": "https://www.lolnet.co.nz/modpack/InfiLite.json",
 	  "description": "InfiLite modpack.",
       "priority": 7
