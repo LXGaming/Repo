@@ -58,6 +58,14 @@
       "priority": 1
     },
     {
+      "name": "Vanilla1710 Package",
+      "title": "Vanilla 1.7.10",
+      "version": "1.7.10",
+      "location": "https://lxgaming.github.io/repo/lolnetlauncher/instance/Vanilla1.7.10.json",
+	  "description": "1.7.10 Minecraft",
+      "priority": 1
+    },
+    {
       "name": "Vanilla110 Package",
       "title": "Vanilla 1.10",
       "version": "1.10.9",
