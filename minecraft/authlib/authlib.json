@@ -1,0 +1,19 @@
+{
+    "version": "1.5.26-LX",
+    "sha1": "",
+    "size": 0,
+    "downloadUrl": "https://lxgaming.github.io/repo/maven/com/mojang/authlib/[VERSION]/authlib-[VERSION].jar",
+    "textureUrl": "https://lxgaming.github.io/repo/minecraft/authlib/textures/[TYPE]/[UUID]",
+    "profiles": {
+        "668a9655cf4c402f8a43c3869e66da3e": {
+            "customCape": true,
+            "customElytra": false,
+            "customSkin": false
+        },
+        "d1792b57634d4681a1c60c83f79cb68d": {
+            "customCape": true,
+            "customElytra": false,
+            "customSkin": false
+        }
+    }
+}
